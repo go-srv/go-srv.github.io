@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go-Srv</title>
+    <link>https://go-srv.github.io/</link>
+    <description>Recent content on Go-Srv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jun 2021 00:12:34 +0800</lastBuildDate>
+    
+	<atom:link href="https://go-srv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://go-srv.github.io/about/</link>
+      <pubDate>Thu, 24 Jun 2021 00:12:34 +0800</pubDate>
+      
+      <guid>https://go-srv.github.io/about/</guid>
+      <description>[WIP] Go-Srv, a simple microservices framework written in Golang</description>
+    </item>
+    
+  </channel>
+</rss>
